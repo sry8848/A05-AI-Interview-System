@@ -1,0 +1,5 @@
+# 忽略本地编辑器与系统缓存
+.vscode/
+.trae/
+.idea/
+.DS_Store
